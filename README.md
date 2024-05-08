@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### BikePedia...
+### Discover the Coolest 12 bikes around...
 <!--
 **Vikaas1517/Vikaas1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
